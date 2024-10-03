@@ -25,3 +25,4 @@ This is a YouTube Clone web application that fetches and renders videos using th
 1. Clone the repository to your local machine:
    ```bash
    git clone https://github.com/your-username/your-repo-name.git
+2. Replace the API key in app.js with your own YouTube Data API key to fetch videos: const API_KEY = 'YOUR_YOUTUBE_API_KEY'
